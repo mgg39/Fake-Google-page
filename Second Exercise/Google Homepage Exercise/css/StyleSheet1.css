@@ -1,0 +1,27 @@
+﻿#search
+{    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 300px;
+}
+form 
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: absolute;
+    align-items: center;
+    top: 450px;
+}
+#image2 {
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    max-width: 30%;
+    height: auto;
+}
+#image3 {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
